@@ -1,0 +1,22 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    {% include head.html %}
+<body>
+
+<div class="off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
+        {% include navigation.top.html nav=page.nav %}
+
+        <section id="main-content">
+            {{ content }}
+        </section>
+
+        <a class="exit-off-canvas"></a>
+        {% include footer.html nav=page.nav %}
+    </div>
+</div>
+
+{% include scripts.html %}
+</body>
+</html>

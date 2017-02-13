@@ -1,6 +1,41 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: callout
+title: Homepage
 ---
+
+## General Information
+
+**DBPL** is a biennial symposium that aims to foster exchange of ideas and discussion about current trends and open problems between the data management and the programming languages research communities.
+
+For over 25 years, **DBPL** has established itself as the principal venue for publishing and discussing new ideas and problems at the intersection of data management and pro-
+gramming languages. 
+Many key contributions relevant to the formal foundations, design, implementation, and evaluation of query languages (e.g., for object-oriented, nested,
+or semi-structured data) were first announced at **DBPL**.
+
+**DBPL 2017** solicits theoretical and practical papers in all areas of *Data-Centric Programming Languages*. Check our [Call For Papers](call_for_papers.html) for more detailed information.
+
+## Important Dates
+
+- **Submission deadline**: *TBD*
+- **Notification of acceptance**: *TBD*
+- **Final papers due**: *TBD*
+- **Workshop**: *TBD*
+
+## Organizers
+
+**Workshop Chairs**
+
+- [Tiark Rompf](https://tiarkrompf.github.io/), Purdue University, USA
+  (contact: firstname@purdue.edu)
+- [Alexander Alexandrov](https://aalexandrov.name/), TU Berlin, Germany
+  (contact: firstname.lastname@tu-berlin.de)
+
+**Steering Committee**
+
+- [Torsten Grust](http://db.inf.uni-tuebingen.de/team/TorstenGrust.html), University of Tübingen, Germany
+- [James Cheney](http://homepages.inf.ed.ac.uk/jcheney/), University of Edinburgh, UK
+- [Thomas Neumann](https://db.in.tum.de/~neumann/), TU Munich, Germany
+
+**Program Committee**
+
+*TBD*

@@ -1,0 +1,31 @@
+.top-bar, .top-bar ul {
+    color: #555;
+    background-color: #FFF;
+}
+
+.top-bar a {
+    color: #555;
+}
+
+.top-bar a:hover {
+    color: #222;
+}
+
+section.content-container {
+    margin: 2ex 0;
+}
+
+#callout-main {
+    background: transparent url('/img/munich-frauenkirche-bavaria-state-cropped.jpeg') no-repeat center;
+    background-size: 100% auto;
+    border: none;
+    padding: 3em 0;
+}
+
+#callout-main, .top-bar {
+    border-bottom: 1px solid #999;
+}
+
+#callout-main h1, #callout-main .lead {
+    color: #222;
+}
