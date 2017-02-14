@@ -12,7 +12,7 @@ gramming languages.
 Many key contributions relevant to the formal foundations, design, implementation, and evaluation of query languages (e.g., for object-oriented, nested,
 or semi-structured data) were first announced at **DBPL**.
 
-**DBPL 2017** solicits theoretical and practical papers in all areas of *Data-Centric Programming Languages*. Check our [Call For Papers](call_for_papers.html) for more detailed information.
+**DBPL 2017** solicits theoretical and practical papers in all areas of *Data-Centric Programming Languages*. Check our [Call for Papers](call_for_papers.html) for more detailed information.
 
 ## Important Dates
 
@@ -32,9 +32,9 @@ or semi-structured data) were first announced at **DBPL**.
 
 **Steering Committee**
 
-- [Torsten Grust](http://db.inf.uni-tuebingen.de/team/TorstenGrust.html), University of Tübingen, Germany
+- [Torsten Grust](http://db.inf.uni-tuebingen.de/team/TorstenGrust.html), Universität Tübingen, Germany
 - [James Cheney](http://homepages.inf.ed.ac.uk/jcheney/), University of Edinburgh, UK
-- [Thomas Neumann](https://db.in.tum.de/~neumann/), TU Munich, Germany
+- [Thomas Neumann](https://db.in.tum.de/~neumann/), TU München, Germany
 
 **Program Committee**
 
