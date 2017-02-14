@@ -16,8 +16,8 @@ section.content-container {
 }
 
 #callout-main {
-    background: transparent url('/img/munich-frauenkirche-bavaria-state-cropped.jpeg') no-repeat center;
-    background-size: 100% auto;
+    background: transparent url('/img/munich-frauenkirche-bavaria-state-cropped.jpeg') repeat-x center;
+    background-size: auto 100%;
     border: none;
     padding: 3em 0;
 }

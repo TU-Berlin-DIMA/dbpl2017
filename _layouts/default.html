@@ -4,17 +4,14 @@
     {% include head.html %}
 <body>
 
-<div class="off-canvas-wrap" data-offcanvas>
-    <div class="inner-wrap">
-        {% include navigation.top.html nav=page.nav %}
+<div class="off-canvas-wrapper" data-offcanvas>
+    {% include navigation.top.html nav=page.nav %}
 
-        <section id="main-content">
-            {{ content }}
-        </section>
+    <section id="main-content" class="off-canvas-content" data-off-canvas-content>
+        {{ content }}
+    </section>
 
-        <a class="exit-off-canvas"></a>
-        {% include footer.html nav=page.nav %}
-    </div>
+    {% include footer.html nav=page.nav %}
 </div>
 
 {% include scripts.html %}

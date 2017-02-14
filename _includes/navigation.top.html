@@ -1,18 +1,41 @@
-<div class="top-bar">
+<div class="title-bar show-for-small-only">
+    <div class="title-bar-left">
+        <button class="menu-icon" type="button" data-open="offCanvasLeft"></button>
+        <span class="title-bar-title">{{ site.title }}</span>
+    </div>
+</div>
+
+<div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
+    <!-- Close button -->
+    <button class="close-button" aria-label="Close menu" type="button" data-close>
+        <span aria-hidden="true">&times;</span>
+    </button>
+
+    <!-- Menu -->
+    <ul class="vertical menu">
+        <li><a href="{{ site.baseurl }}/index.html#general-information">General Information</a></li>
+        <li><a href="{{ site.baseurl }}/index.html#important-dates">Important Dates</a></li>
+        <li><a href="{{ site.baseurl }}/index.html#organizers">Organizers</a></li>
+        <li><a href="{{ site.baseurl }}/call_for_papers.html">Call for Papers</a></li>
+    </ul>
+
+</div>
+
+<div class="top-bar hide-for-small-only" id="example-menu">
     <div class="row">
         <div>
             <div class="top-bar-left">
                 <ul class="dropdown menu" data-dropdown-menu>
                     <li>
                         <a href="{{ site.baseurl }}/index.html"><strong>{{ site.title }}</strong></a>
-                        <ul class="menu vertical">
+                        <ul class="vertical menu">
                             <li><a href="{{ site.baseurl }}/index.html#general-information">General Information</a></li>
                             <li><a href="{{ site.baseurl }}/index.html#important-dates">Important Dates</a></li>
                             <li><a href="{{ site.baseurl }}/index.html#organizers">Organizers</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="call_for_papers.html">Call for Papers</a>
+                        <a href="{{ site.baseurl }}/call_for_papers.html">Call for Papers</a>
                         <!--<ul class="menu vertical">
                             <li><a href="#">One</a></li>
                             <li><a href="#">Two</a></li>
@@ -22,7 +45,7 @@
                 </ul>
             </div>
             <div class="top-bar-right">
-                <ul class="dropdown menu" data-dropdown-menu>
+                <ul class="menu">
                     <li><a href="http://vldb.org/2017/">VLDB 2017 Website</a></li>
                 </ul>
             </div>
