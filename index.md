@@ -19,7 +19,7 @@ or semi-structured data) were first announced at **DBPL**.
 - **Submission deadline**: *TBD*
 - **Notification of acceptance**: *TBD*
 - **Final papers due**: *TBD*
-- **Workshop**: *TBD*
+- **Workshop**: September 1st, 2017
 
 ## Organizers
 
