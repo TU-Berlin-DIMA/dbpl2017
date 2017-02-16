@@ -16,8 +16,8 @@ or semi-structured data) were first announced at **DBPL**.
 
 ## Important Dates
 
-- **Submission deadline**: *TBD*
-- **Notification of acceptance**: *TBD*
+- **Submission deadline**: May 12, 2017
+- **Notification of acceptance**: June 19, 2017
 - **Final papers due**: *TBD*
 - **Workshop**: September 1st, 2017
 
