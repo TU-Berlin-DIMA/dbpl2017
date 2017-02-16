@@ -7,12 +7,11 @@ title: Homepage
 
 **DBPL** is a biennial symposium that aims to foster exchange of ideas and discussion about current trends and open problems between the data management and the programming languages research communities.
 
-For over 25 years, **DBPL** has established itself as the principal venue for publishing and discussing new ideas and problems at the intersection of data management and pro-
-gramming languages. 
+For over 25 years, **DBPL** has established itself as the principal venue for publishing and discussing new ideas and problems at the intersection of data management and programming languages. 
 Many key contributions relevant to the formal foundations, design, implementation, and evaluation of query languages (e.g., for object-oriented, nested,
 or semi-structured data) were first announced at **DBPL**.
 
-**DBPL 2017** solicits theoretical and practical papers in all areas of *Data-Centric Programming Languages*. Check our [Call for Papers](call_for_papers.html) for more detailed information.
+**DBPL 2017** solicits theoretical and practical papers in all areas of *Data-Centric Programming*. Please see the [Call for Papers](call_for_papers.html) for more detailed information.
 
 ## Important Dates
 
