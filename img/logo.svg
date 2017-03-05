@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.png">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0185185"
-     inkscape:cx="135"
-     inkscape:cy="115.29706"
+     inkscape:cx="76.196319"
+     inkscape:cy="135.7195"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,12 +54,19 @@
      id="layer1"
      transform="translate(0,-782.36088)">
     <rect
+       style="fill:#202b27;fill-opacity:1;stroke:none"
+       id="rect3843-3"
+       width="270"
+       height="135"
+       x="0"
+       y="782.3609" />
+    <rect
        style="fill:#f1ead8;fill-opacity:1;stroke:none"
        id="rect3843"
-       width="270.22086"
-       height="269.88956"
+       width="270"
+       height="135"
        x="0"
-       y="782.47131" />
+       y="917.36084" />
     <text
        xml:space="preserve"
        style="font-size:108px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#202b27;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Mono Bold"
@@ -71,7 +78,7 @@
          x="4.1660156"
          y="888.5152"
          id="tspan2989"
-         style="font-size:108px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#202b27;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">DBPL</tspan><tspan
+         style="font-size:108px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#f1ead8;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">DBPL</tspan><tspan
          sodipodi:role="line"
          x="4.1660156"
          y="1023.5152"
