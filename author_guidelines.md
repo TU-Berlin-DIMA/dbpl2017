@@ -17,5 +17,7 @@ At least one author of each accepted paper must attend the symposium to present 
 Short papers of at most 4 pages [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template) describing work in progress, demos, research challenges or visions are also welcome.
 Accepted short papers may be included or excluded from the formal proceedings, whichever the author(s) prefer.
   
-Full and short papers are both due on the deadline, May 12, 2017.
-Abstracts of full papers should be submitted by May 5th to aid reviewer selection.
+Full and short papers are both due on the deadline, May 12<sup>th</sup>, 2017.
+Abstracts of full papers should be submitted by May 5<sup>th</sup> to aid reviewer selection.
+
+Detailed submission instructions will be available on this page before April 14<sup>th</sup>.
