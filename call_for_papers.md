@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Call for Papers
+redirect_from: "/cfp"
 ---
 
 ## Call for Papers
