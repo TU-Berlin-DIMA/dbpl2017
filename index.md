@@ -3,11 +3,21 @@ layout: callout
 title: Homepage
 ---
 
+<div class="success callout" data-closable="fade-out">
+  <h5>Update Log</h5>
+  <ul>
+    <li><em>13/03/2017</em> - We're happy to announce the members of our <a href="#organizers">Program Committee</a>.</li>
+  </ul>
+  <button class="close-button" aria-label="Dismiss alert" type="button" data-close>
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
 ## General Information
 
 **DBPL** is a biennial symposium that aims to foster exchange of ideas and discussion about current trends and open problems between the data management and the programming languages research communities.
 
-For over 30 years, **DBPL** has established itself as the principal venue for publishing and discussing new ideas and problems at the intersection of data management and programming languages. 
+For over 30 years, **DBPL** has established itself as the principal venue for publishing and discussing new ideas and problems at the intersection of data management and programming languages.
 Many key contributions relevant to the formal foundations, design, implementation, and evaluation of query languages (e.g., for object-oriented, nested,
 or semi-structured data) were first announced at **DBPL**.
 
@@ -34,4 +44,11 @@ or semi-structured data) were first announced at **DBPL**.
 
 **Program Committee**
 
-*TBD*
+- [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
+- [Nada Amin](http://lampwww.epfl.ch/~amin/cv/), EPFL, Switzerland
+- [Hassan Chafi](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:16), Oracle, USA
+- [Fritz Henglein](http://www.diku.dk/~henglein/), University of Copenhagen, Denmark
+- [Mohammad Sadoghi](https://msadoghi.github.io/), Purdue University, USA
+- [Ce Zhang](https://www.inf.ethz.ch/personal/ce.zhang/), ETH, Switzerland
+- [Danica Porobic](http://danica.azurewebsites.net/), Oracle, USA
+- [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA
