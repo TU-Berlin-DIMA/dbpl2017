@@ -46,9 +46,10 @@ or semi-structured data) were first announced at **DBPL**.
 
 - [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
 - [Nada Amin](http://lampwww.epfl.ch/~amin/cv/), EPFL, Switzerland
+- [Sebastian Breß](https://www.user.tu-berlin.de/sebastian.bress/), TU Berlin, Germany
 - [Hassan Chafi](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:16), Oracle, USA
 - [Fritz Henglein](http://www.diku.dk/~henglein/), University of Copenhagen, Denmark
 - [Mohammad Sadoghi](https://msadoghi.github.io/), Purdue University, USA
 - [Ce Zhang](https://www.inf.ethz.ch/personal/ce.zhang/), ETH, Switzerland
 - [Danica Porobic](http://danica.azurewebsites.net/), Oracle, USA
-- [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA
+- [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA 
