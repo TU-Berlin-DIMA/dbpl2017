@@ -6,6 +6,7 @@ title: Homepage
 <div class="success callout" data-closable="fade-out">
   <h5>Update Log</h5>
   <ul>
+    <li><em>10/05/2017</em> - We *extended* the submission deadlines by one week!</li>
     <li><em>14/04/2017</em> - Our <a href="https://easychair.org/conferences/?conf=dbpl2017">Submission Page</a> is now online.</li>
     <li><em>13/03/2017</em> - We're happy to announce the members of our <a href="#organizers">Program Committee</a>.</li>
   </ul>
