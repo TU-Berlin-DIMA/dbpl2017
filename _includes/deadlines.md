@@ -1,5 +1,5 @@
-- **Abstracts submission deadline**: May 5<sup>th</sup>, 2017, 23:59:59 PDT
-- **Papers submission deadline**: May 12<sup>th</sup>, 2017, 23:59:59 PDT
-- **Notification of acceptance**: June 19<sup>th</sup>, 2017
+- **Abstracts submission deadline**: May 12<sup>th</sup>, 2017, 23:59:59 PDT (**extended**)
+- **Papers submission deadline**: May 19<sup>th</sup>, 2017, 23:59:59 PDT (**extended**)
+- **Notification of acceptance**: June 26<sup>th</sup>, 2017 (**extended**)
 - **Final papers due**: *TBD*
 - **Workshop**: September 1<sup>st</sup>, 2017
