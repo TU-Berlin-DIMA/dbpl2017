@@ -19,6 +19,6 @@ Accepted short papers may be included or excluded from the formal proceedings, w
 
 To use the [ACM Standard](https://www.acm.org/publications/proceedings-template) proceedings template in LaTex, set `\documentclass[sigconf]{acmart}`.
 
-Full and short papers are both due on the deadline, May 12<sup>th</sup>, 2017.
-Abstracts of full papers should be submitted by May 5<sup>th</sup> to aid reviewer selection.
+Full and short papers are both due on the deadline, <s>May 12<sup>th</sup></s> May 19<sup>th</sup>, 2017.
+Abstracts of full papers should be submitted by <s>May 5<sup>th</sup></s> May 12<sup>th</sup> to aid reviewer selection.
 Submissions should be made through our [EasyChair Submission Page](https://easychair.org/conferences/?conf=dbpl2017).
