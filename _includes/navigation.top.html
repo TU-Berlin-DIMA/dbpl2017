@@ -5,7 +5,7 @@
     </div>
 </div>
 
-<div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
+<div class="off-canvas position-left" id="offCanvasLeft" style="display: none" data-off-canvas>
     <!-- Close button -->
     <button class="close-button" aria-label="Close menu" type="button" data-close>
         <span aria-hidden="true">&times;</span>
@@ -25,27 +25,25 @@
 
 <div class="top-bar hide-for-small-only" id="example-menu">
     <div class="row">
-        <div>
-            <div class="top-bar-left">
-                <ul class="dropdown menu" data-dropdown-menu>
-                    <li>
-                        <a href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
-                        <ul class="vertical menu">
-                            <li><a href="{{ site.baseurl }}/#general-information">General Information</a></li>
-                            <li><a href="{{ site.baseurl }}/#important-dates">Important Dates</a></li>
-                            <li><a href="{{ site.baseurl }}/#organizers">Organizers</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="{{ site.baseurl }}/call_for_papers.html">Call for Papers</a></li>
-                    <li><a href="{{ site.baseurl }}/author_guidelines.html">Author Guidelines</a></li>
-                    <li><a href="https://easychair.org/conferences/?conf=dbpl2017">Submission Page</a></li>
-                </ul>
-            </div>
-            <div class="top-bar-right">
-                <ul class="menu">
-                    <li><a href="https://www.twitter.com/dbpl2017"><i class="fi-social-twitter"></i> Twitter</a></li>
-                </ul>
-            </div>
+        <div class="top-bar-left">
+            <ul class="dropdown menu" data-dropdown-menu>
+                <li>
+                    <a href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
+                    <ul class="vertical menu">
+                        <li><a href="{{ site.baseurl }}/#general-information">General Information</a></li>
+                        <li><a href="{{ site.baseurl }}/#important-dates">Important Dates</a></li>
+                        <li><a href="{{ site.baseurl }}/#organizers">Organizers</a></li>
+                    </ul>
+                </li>
+                <li><a href="{{ site.baseurl }}/call_for_papers.html">Call for Papers</a></li>
+                <li><a href="{{ site.baseurl }}/author_guidelines.html">Author Guidelines</a></li>
+                <li><a href="https://easychair.org/conferences/?conf=dbpl2017">Submission Page</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul class="menu">
+                <li><a href="https://www.twitter.com/dbpl2017"><i class="fi-social-twitter"></i> Twitter</a></li>
+            </ul>
         </div>
     </div>
 </div>
