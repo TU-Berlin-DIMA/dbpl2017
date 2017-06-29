@@ -6,7 +6,8 @@ title: Homepage
 <div class="success callout" data-closable="fade-out">
   <h5>Update Log</h5>
   <ul>
-    <li><em>10/05/2017</em> - We <strong>extended</strong> the submission deadlines by one week!</li>
+    <li><em>29/06/2017</em> - We are delignted to announce <a href="{{ site.baseurl }}/program.html">the list of accepted papers</a>!</li>
+    <li><em>10/05/2017</em> - We <strong>extended</strong> the submission deadlines by one week.</li>
     <li><em>14/04/2017</em> - Our <a href="https://easychair.org/conferences/?conf=dbpl2017">Submission Page</a> is now online.</li>
     <li><em>13/03/2017</em> - We're happy to announce the members of our <a href="#organizers">Program Committee</a>.</li>
   </ul>
