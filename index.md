@@ -7,6 +7,7 @@ title: Homepage
   <h5>Update Log</h5>
   <ul>
     <li><em>13/08/2017</em> - We are delignted to announce <a href="{{ site.baseurl }}/program.html">the DBPL 2017 program</a>!</li>
+    <li><em>13/08/2017</em> - <a href="https://www.oracle.com">Oracle</a>  and <a href="https://www.sap.com">SAP</a> are official sponsors of DBPL 2017.</li>
     <li><em>10/05/2017</em> - We <strong>extended</strong> the submission deadlines by one week.</li>
     <li><em>14/04/2017</em> - Our <a href="https://easychair.org/conferences/?conf=dbpl2017">Submission Page</a> is now online.</li>
     <li><em>13/03/2017</em> - We're happy to announce the members of our <a href="#organizers">Program Committee</a>.</li>
@@ -55,4 +56,12 @@ or semi-structured data) were first announced at **DBPL**.
 - [Mohammad Sadoghi](https://msadoghi.github.io/), Purdue University, USA
 - [Ce Zhang](https://www.inf.ethz.ch/personal/ce.zhang/), ETH, Switzerland
 - [Danica Porobic](http://danica.azurewebsites.net/), Oracle, USA
-- [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA 
+- [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA
+
+## Sponsors
+
+[![Oracle][oracle]](https://www.oracle.com)
+[![SAP SE][sap]](https://www.sap.com)
+
+[oracle]: {{ site.baseurl }}/img/oracle.svg "Oracle Logo"
+[sap]: {{ site.baseurl }}/img/sap.svg "SAP SE Logo"
