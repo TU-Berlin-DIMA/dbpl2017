@@ -24,8 +24,8 @@ title: Program
   Jose Oliveira and Hugo Daniel Macedo
 - **Counting Types for Massive JSON Datasets**<br />
   Mohamed-Amine Baazizi, Dario Colazzo, Giorgio Ghelli and Carlo Sartiani
-- **Variational Databases**<br />
-  Parisa Ataei, Arash Termehchy and Eric Walkingshaw
+- **GraphScript: Implementing Complex Graph Algorithms in SAP HANA**<br />
+  Marcus Paradies, Cornelia Kinder, Jan Bross, Thomas Fischer, Romans Kasperovics and Hinnerk Gildhoff
 
 ### Session 3 (13:30-15:00)
 
@@ -40,10 +40,10 @@ title: Program
 
 - **Bridging the Semantical Gap Between Relational Data and Application-Level Business Objects with Core Data Services (Invited Talk)**<br />
   Stefan Bäuerle, Alexander Böhm
-- **GraphScript: Implementing Complex Graph Algorithms in SAP HANA**<br />
-  Marcus Paradies, Cornelia Kinder, Jan Bross, Thomas Fischer, Romans Kasperovics and Hinnerk Gildhoff
 - **Temporal Graph Algebra**<br />
   Vera Moffitt and Julia Stoyanovich
+- **Variational Databases**<br />
+  Parisa Ataei, Arash Termehchy and Eric Walkingshaw
 - **Closing**<br />
   Tiark Rompf, Alexander Alexandrov
 
