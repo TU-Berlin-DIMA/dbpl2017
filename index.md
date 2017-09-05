@@ -37,7 +37,7 @@ or semi-structured data) were first announced at **DBPL**.
 
 - [Tiark Rompf](https://tiarkrompf.github.io/), Purdue University, USA
   (contact: firstname@purdue.edu)
-- [Alexander Alexandrov](https://aalexandrov.name/), TU Berlin, Germany
+- [Alexander Alexandrov](http://aalexandrov.name/), TU Berlin, Germany
   (contact: firstname.lastname@tu-berlin.de)
 
 **Steering Committee**
