@@ -4,8 +4,10 @@ title: Homepage
 ---
 
 <div class="success callout" data-closable="fade-out">
-  <h5>Update Log</h5>
+  <h5>News</h5>
   <ul>
+    <li><em>01/10/2017</em> - Slides of the talks are now available on <a href="{{ site.baseurl }}/program.html">the program page</a>.</li>
+    <li><em>01/09/2017</em> - <a href="https://dl.acm.org/citation.cfm?id=3122831&picked=prox">The DBPL 2017 proceedings</a> are available through the ACM Digital Library.</li>
     <li><em>13/08/2017</em> - We are delignted to announce <a href="{{ site.baseurl }}/program.html">the DBPL 2017 program</a>!</li>
     <li><em>13/08/2017</em> - <a href="https://www.oracle.com">Oracle</a>  and <a href="https://www.sap.com">SAP</a> are official sponsors of DBPL 2017.</li>
     <li><em>10/05/2017</em> - We <strong>extended</strong> the submission deadlines by one week.</li>
