@@ -40,7 +40,7 @@ Published papers are available on the authors' websites.
 - [**DDO-Free XQuery**]({{ site.baseurl }}/slides/DBPL-2017-1.pdf)<br />
   Hiroyuki Kato, Yasunori Ishihara and [Torsten Grust](http://db.inf.uni-tuebingen.de/publications/DDO-FreeXQuery.html)
 - [**Property-based Testing of SPARQL Queries**]({{ site.baseurl }}/slides/DBPL-2017-7.pdf)<br />
-  Jesus M. Almendros-Jimenez and Antonio Becerra-Teron
+  [Jesus M. Almendros-Jimenez](http://indalog.ual.es/WWW_pages/JesusAlmendros/) and Antonio Becerra-Teron
 
 ### Session 4 (15:30-17:00)
 
