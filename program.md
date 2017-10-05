@@ -25,11 +25,11 @@ Published papers are available on the authors' websites.
 ### Session 2 (10:30-12:00)
 
 - [**AL: Unified Analytics in Domain Specific Terms**]({{ site.baseurl }}/slides/DBPL-2017-6.pdf)<br />
-  Johannes Luong, Dirk Habich and Wolfgang Lehner
+  [Johannes Luong](https://wwwdb.inf.tu-dresden.de/our-group/team/johannes-luong/), Dirk Habich and Wolfgang Lehner
 - [**The Data Cube as a Typed Linear Algebra Operator**]({{ site.baseurl }}/slides/DBPL-2017-5.pdf)<br />
-  Jose Oliveira and Hugo Daniel Macedo
+  [Jose Oliveira](http://www4.di.uminho.pt/~jno/) and Hugo Daniel Macedo
 - [**Counting Types for Massive JSON Datasets**]({{ site.baseurl }}/slides/DBPL-2017-8.pdf)<br />
-  Mohamed-Amine Baazizi, Dario Colazzo, Giorgio Ghelli and Carlo Sartiani
+  [Mohamed-Amine Baazizi](http://www-poleia.lip6.fr/~baazizi/), Dario Colazzo, Giorgio Ghelli and Carlo Sartiani
 - [**GraphScript: Implementing Complex Graph Algorithms in SAP HANA**]({{ site.baseurl }}/slides/DBPL-2017-19.pdf)<br />
   Marcus Paradies, Cornelia Kinder, Jan Bross, Thomas Fischer, Romans Kasperovics and Hinnerk Gildhoff
 
@@ -49,6 +49,6 @@ Published papers are available on the authors' websites.
 - [**Temporal Graph Algebra**]({{ site.baseurl }}/slides/DBPL-2017-9.pdf)<br />
   Vera Moffitt and [Julia Stoyanovich](https://www.cs.drexel.edu/~julia/)
 - [**Variational Databases**]({{ site.baseurl }}/slides/DBPL-2017-10.pdf)<br />
-  Parisa Ataei, Arash Termehchy and Eric Walkingshaw
+  Parisa Ataei, Arash Termehchy and [Eric Walkingshaw](http://web.engr.oregonstate.edu/~walkiner/)
 - **Closing**<br />
   Tiark Rompf, Alexander Alexandrov
