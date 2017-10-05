@@ -28,7 +28,7 @@ Published papers are available on the authors' websites.
   Johannes Luong, Dirk Habich and Wolfgang Lehner
 - [**The Data Cube as a Typed Linear Algebra Operator**]({{ site.baseurl }}/slides/DBPL-2017-5.pdf)<br />
   Jose Oliveira and Hugo Daniel Macedo
-- **Counting Types for Massive JSON Datasets**<br />
+- [**Counting Types for Massive JSON Datasets**]({{ site.baseurl }}/slides/DBPL-2017-8.pdf)<br />
   Mohamed-Amine Baazizi, Dario Colazzo, Giorgio Ghelli and Carlo Sartiani
 - [**GraphScript: Implementing Complex Graph Algorithms in SAP HANA**]({{ site.baseurl }}/slides/DBPL-2017-19.pdf)<br />
   Marcus Paradies, Cornelia Kinder, Jan Bross, Thomas Fischer, Romans Kasperovics and Hinnerk Gildhoff
@@ -48,7 +48,7 @@ Published papers are available on the authors' websites.
   Stefan Bäuerle, Alexander Böhm
 - [**Temporal Graph Algebra**]({{ site.baseurl }}/slides/DBPL-2017-9.pdf)<br />
   Vera Moffitt and [Julia Stoyanovich](https://www.cs.drexel.edu/~julia/)
-- **Variational Databases**<br />
+- [**Variational Databases**]({{ site.baseurl }}/slides/DBPL-2017-10.pdf)<br />
   Parisa Ataei, Arash Termehchy and Eric Walkingshaw
 - **Closing**<br />
   Tiark Rompf, Alexander Alexandrov
