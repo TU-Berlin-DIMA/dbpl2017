@@ -8,7 +8,7 @@ title: Program
 [The DBPL 2017 proceedings](https://dl.acm.org/citation.cfm?id=3122831&picked=prox) are available though the ACM Digital Library.
 
 Presentation titles link to the slides in PDF format.
-Published papers are available on the authors' websites.
+Published papers might be also freely available on the authors' websites.
 
 
 ### Session 1 (08:30-10:00)
